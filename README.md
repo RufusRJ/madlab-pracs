@@ -6,20 +6,20 @@ A monorepo containing 14 Flutter learning tasks, showcasing fundamental UI conce
 
 ```
 madlab-pracs/
-├── task_1/    # Simple User Profile UI
-├── task_2/    # Form Input & Validation
-├── task_3/    # ListView with Mock Data
-├── task_4/    # Navigation Between Screens
-├── task_5/    # Fade-In Animation
-├── task_6/    # ListView of Items
-├── task_7/    # JSON Parsing & Display
-├── task_8/    # Bottom Navigation
-├── task_9/    # Widget Test Example
-├── task_10/   # Draggable & DragTarget
-├── task_11/   # Image Gallery with GestureDetector
-├── task_12/   # Color Toggler
-├── task_13/   # AnimatedContainer demo
-├── task_14/   # TabBar layout
+├── task_1/    # Task 1: Create a Simple User Profile UI
+├── task_2/    # Task 2: Build a Simple Login Form
+├── task_3/    # Task 3: Implement a Row of Action Buttons
+├── task_4/    # Task 4: Create a Page with Navigation
+├── task_5/    # Task 5: Add a Simple Fade-In Animation
+├── task_6/    # Task 6: Display a List of Items
+├── task_7/    # Task 7: Read and Display Data from a Local JSON String
+├── task_8/    # Task 8: Implement a Bottom Navigation Bar
+├── task_9/    # Task 9: Simple Widget Test for a Text Widget
+├── task_10/   # Task 10: Implement a Draggable Widget
+├── task_11/   # Task 11: Create an Image Gallery with GestureDetector
+├── task_12/   # Task 12: Build a Simple Color Toggler
+├── task_13/   # Task 13: Create an Animated Container
+├── task_14/   # Task 14: Simple TabBar Layout
 └── README.md
 ```
 
