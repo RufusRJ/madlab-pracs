@@ -1,6 +1,6 @@
 # MADLab Practicals — Flutter Projects
 
-A monorepo containing 15 Flutter learning tasks, showcasing fundamental UI concepts and patterns.
+A monorepo containing 14 Flutter learning tasks, showcasing fundamental UI concepts and patterns.
 
 ## Project Structure
 
@@ -9,7 +9,17 @@ madlab-pracs/
 ├── task_1/    # Simple User Profile UI
 ├── task_2/    # Form Input & Validation
 ├── task_3/    # ListView with Mock Data
-├── ... (task_4 through task_15)
+├── task_4/    # Navigation Between Screens
+├── task_5/    # Fade-In Animation
+├── task_6/    # ListView of Items
+├── task_7/    # JSON Parsing & Display
+├── task_8/    # Bottom Navigation
+├── task_9/    # Widget Test Example
+├── task_10/   # Draggable & DragTarget
+├── task_11/   # Image Gallery with GestureDetector
+├── task_12/   # Color Toggler
+├── task_13/   # AnimatedContainer demo
+├── task_14/   # TabBar layout
 └── README.md
 ```
 
@@ -72,8 +82,7 @@ To access from your Windows machine:
 | **task_11** | Drawer Navigation | Drawer, ListTile navigation, sidebar UI |
 | **task_12** | Dialog & Bottom Sheet | AlertDialog, showModalBottomSheet, user feedback |
 | **task_13** | Responsive Layout | MediaQuery, LayoutBuilder, adaptive UI |
-| **task_14** | State Management (Provider) | Provider, ChangeNotifier, multi-screen state |
-| **task_15** | Theme & Localization | ThemeData, custom themes, dark mode |
+| **task_14** | TabBar Layout | TabBar, TabBarView, DefaultTabController |
 
 ## Development
 
